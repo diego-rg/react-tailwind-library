@@ -7,7 +7,7 @@ import Card from "./components/Card";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-gray-100 ">
       <Button />
       <ButtonOutlined />
       <ButtonLarge />
